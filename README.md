@@ -1,4 +1,4 @@
-# APEX — Adaptive Programming via eXploratory edit search
+# g023's APX Agent — Adaptive Programming via eXploratory edit search
 
 An autonomous coding agent that turns a natural-language goal into working code.
 Combines **Intent Specification** elicitation, a **Symbolic Code Model** (zero-dep
